@@ -5,16 +5,16 @@ This is a simple currency converter web application built using JavaScript, HTML
 ## Screenshots
 
 1. **Screenshot of Currency Converter Interface**
-   ![Screenshot 1](img/SS-1.png)
+   ![Screenshot 1](img/ss-1.png)
 
 2. **Currency Conversion Example**
-   ![Screenshot 2](img/SS-2.png)
+   ![Screenshot 2](img/ss-2.png)
 
 3. **Currency Dropdown Selection**
-   ![Screenshot 3](img/SS-3.png)
+   ![Screenshot 3](img/ss-3.png)
 
 4. **Currency Conversion Result**
-   ![Screenshot 4](img/SS-4.png)
+   ![Screenshot 4](img/ss-4.png)
 
 ## Description
 
